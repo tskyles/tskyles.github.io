@@ -1,7 +1,9 @@
+---
 layout: post
 title:  "Day 1"
-date:   2019-11-25 14:46:00
-categories: Daily Post
+date:   2019-11-25 14:51:00 -0800
+categories: daily post
+---
+I had trouble with using jekyll only through github pages, so I ended up using it locally and got it to work.
 
-No issues setting up my blog.
 For thanksgiving I am going to be getting together with friends for a friends-giving.
