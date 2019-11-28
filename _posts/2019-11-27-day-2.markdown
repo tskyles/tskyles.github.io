@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Day 2"
+date:   2019-11-27 16:55:00 -0000
+categories: daily post
+---
+
+Today I worked on part of a website I have been working on. I also worked on making a calculator app. I am trying to recreate the default android calculator as a web app. Tomorrow I plan on finishing the last few parts of the basic functionality of my calculator app as well as contining with more work in the weekly project.
